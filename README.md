@@ -6,13 +6,23 @@
 ##### 2022-3B 廖俊傑
 
 This is a block needed to be noticed `small`. 
-
 ```
 big
 big
 ```
 
 🐱 💋 😴
+
+> 台北市
+>>北投區
+
+>>中山區
+
+* Red
+* Green
+1. Bird
+2. Dog
+3. Cat
 
 ![EYES](777.jpg "https://www.newton.com.tw/wiki/%E7%B4%85%E5%8B%BE%E7%8E%89%E8%BC%AA%E8%BF%B4%E7%9C%BC")
 
