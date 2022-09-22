@@ -27,3 +27,9 @@ function myfunction(pl, p2){
 return p1 * p2; // The function returns the product of pi and p2
 }
 ```
+
+python code
+```python
+s = "Python syntax highlighting"
+print s
+```
