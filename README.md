@@ -17,7 +17,7 @@ big
 ![EYES](777.jpg "https://www.newton.com.tw/wiki/%E7%B4%85%E5%8B%BE%E7%8E%89%E8%BC%AA%E8%BF%B4%E7%9C%BC")
 
 [![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
-[![Neal](https://img.youtube.com/vi/jyW1PyEZIuI&t=355s&ab_channel=%E7%88%86%E5%93%A5Neal/0.jpg)](https://www.youtube.com/watch?v=jyW1PyEZIuI&t=355s&ab_channel=%E7%88%86%E5%93%A5Neal "Everything Is AWESOME")
+[![Good](https://img.youtube.com/vi/sSm2dRarhPo/0.jpg)](https://www.youtube.com/watch?v=sSm2dRarhPo "Everything Is AWESOME")
 
 - [ ] todo list
 - [x] done
