@@ -61,8 +61,10 @@ python code
 s = "Python syntax highlighting"
 print s
 ```
+- [ ] todo list
+- [ ] 2nd things
 
 |Markdown   | Less  | Pretty |
 |:--------------|:---------------:|--------------:|
-| still      | `render` | nicely
+| Still      | `render` | nicely
 | 1          | 2        | 3 
