@@ -22,6 +22,20 @@ big
 - [ ] todo list
 - [x] done
 
+```js
+$scope.cookieGet = function(key)[
+$scope.cookieResult = $cookiestore.get(key);
+console. log ($scope.cookieResult);
+```
+
+|Left-Aligned   | Center Aligned  | Right Aligned |
+|:--------------|:---------------:|--------------:|
+| col 3 is      | some wordy text | $1600
+| col 2 is      | centered        | $12
+| zebra stripes | are neat        | $1 
+| test |測試         | $3333  |
+
+
 ```javascript
 function myfunction(pl, p2){
 return p1 * p2; // The function returns the product of pi and p2
