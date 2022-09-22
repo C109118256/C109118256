@@ -61,3 +61,8 @@ python code
 s = "Python syntax highlighting"
 print s
 ```
+
+|Markdown   | Less  | Pretty |
+|:--------------|:---------------:|--------------:|
+| still      | `render` | nicely
+| 1          | 2        | 3 
