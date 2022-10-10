@@ -16,3 +16,4 @@ gantt
     轉換檔案           :after a5     , 20d
     使用者訓練         :after a7     , 20d
 ```
+![PERT圖](888.png)
