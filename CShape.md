@@ -8,7 +8,7 @@ abstract class CShape{
     public abstract void show();
 }
 
-```
+
 
 class CTriangle extends CShape{
     double ca, cb, cc;
